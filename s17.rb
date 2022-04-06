@@ -1,0 +1,1 @@
+puts "Mangal".index(?g)
